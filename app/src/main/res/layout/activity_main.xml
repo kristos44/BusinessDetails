@@ -24,9 +24,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
+                android:contentDescription=""
                 android:scaleType="fitXY"
-                android:src="@drawable/realestate"
-                android:contentDescription="" />
+                android:src="@drawable/realestate" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -39,6 +39,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:autoLink="web"
                 android:padding="@dimen/text_view_padding"
                 android:text="@string/company_www"
                 android:textColor="@color/colorAccent" />
@@ -46,6 +47,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:autoLink="phone"
                 android:padding="@dimen/text_view_padding"
                 android:text="@string/company_phone"
                 android:textColor="@color/colorPrimary" />

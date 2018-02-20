@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Business Details</string>
+    <string name="company_address">ul. Grobelna 7 lokal 310\n
+        95-200 Pabianice</string>
+    <string name="company_name">TRY Biuro Nieruchomości</string>
+    <string name="company_hours">Otwarte 9 - 17</string>
+</resources>

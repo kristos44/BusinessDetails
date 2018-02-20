@@ -1,9 +1,10 @@
 <resources>
     <string name="app_name">Business Details</string>
+    <string name="company_logo_description">Company logo</string>
     <string name="company_name">TRY Estate Agency</string>
     <string name="company_www" translatable="false">http://trynieruchomosci.pl</string>
     <string name="company_address">Grobelna Street No 7, local 310\n
         95-200 Pabianice</string>
     <string name="company_phone">+48 504-031-232</string>
-    <string name="company_hours">We're open 9am - 5pm</string>
+    <string name="company_hours">We\'re open 9am - 5pm</string>
 </resources>
